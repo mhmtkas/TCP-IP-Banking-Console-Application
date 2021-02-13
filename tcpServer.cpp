@@ -11,6 +11,8 @@
  
 using namespace std;
 
+//Mehmet Kas
+
 struct Bank{
     
     string name;
@@ -28,13 +30,7 @@ struct Person{
 };
 static void addValuesToTxt();
 Person *dataBase()
-{       /*
-    	static Person musteri1 = {"mehmetkas","mehmet","kas","123456",{"A",1122331,120}};
-        static Person musteri2 = {"ayseozcetin","ayse","ozcetin","123456",{"A",1122332,100}};
-        static Person musteri3 = {"sudeatik","sude","atik","123456",{"B",2233441,200}};
-        static Person musteri4 = {"alicanuz","alican","uz","123456",{"B",2233442,50 }};
-        static Person musteri5 = {"emirhanerturan","emirhan","erturan","123456",{"C",3344551,1000}};
-        static Person musteri6 = {"berkayusta","berkay","usta","123456",{"C",3344552,250}};*/
+{       
         static Person musteri1;
         static Person musteri2;
         static Person musteri3;
