@@ -3,4 +3,4 @@ ayseozcetin Ayse Ozcetin 123456 A 1122332 500
 sudeatik Sude Atik 123456 B 2233441 95
 alicanuz Alican Uz 123456 B 2233442 50
 emirhanerturan Emirhan Erturan 123456 C 3344551 885
-berkayusta Berkay Usta 123456 C 3344552 250344552
+berkayusta Berkay Usta 123456 C 3344552 250
