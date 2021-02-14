@@ -18,5 +18,7 @@ If it doesn't work, you can compile again from tcpServer.cpp and tcpClient.cpp f
 
 All infos about users are saved in _database.txt_ in order _username_, _name_, _surname_, _password_, _bankName_, _accountNo_, _amount._
 
+**You can access a video how to use this app from this [Youtube Link](https://www.youtube.com/watch?v=h0GYwevohPU&t)**
+
 
 
