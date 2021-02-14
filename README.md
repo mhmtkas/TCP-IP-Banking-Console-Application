@@ -8,7 +8,7 @@
 
 **RUN:** 
 
-*tcpServer.out and tcpClient.out are debugged files and ready to run n its directory with commands:*
+*tcpServer.out and tcpClient.out are debugged files and ready to run in its directory with commands:*
 ```
 ./tcpServer.out
 ./tcpClient.out
